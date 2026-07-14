@@ -1,7 +1,7 @@
 # Left out of protection: social group, informality and earnings in Uttar Pradesh
 ### Evidence from PLFS 2025
 
-Uttar Pradesh's workforce of 68 million is almost entirely informal — 96% of workers lack a written contract, employer-provided social security, or a registered employer. This project uses Periodic Labour Force Survey (PLFS) 2025 microdata to ask who gets left out of protected work, whether education closes the gap, and how the penalty shows up in earnings. Formal work turns out to be distributed along social group lines — and the inequality *widens* with education. Earnings gaps of 13–18% persist between social groups even among workers with identical education, age, sex, and location.
+Uttar Pradesh's workforce of 68 million is almost entirely informal — 96% of workers lack a written contract, employer-provided social security, or a registered employer. This project uses Periodic Labour Force Survey (PLFS) 2025 microdata to ask who gets left out of protected work, whether education closes the gap, and how the penalty shows up in earnings. Formal work turns out to be distributed along social group lines, and the inequality *widens* with education. Earnings gaps of 13–18% persist between social groups even among workers with identical education, age, sex, and location.
 
 [Informality by education and social group](fig1_gradient.png)
 
@@ -13,7 +13,7 @@ Uttar Pradesh's workforce of 68 million is almost entirely informal — 96% of w
 
 ## Data
 
-PLFS 2025 microdata (Ministry of Statistics and Programme Implementation, Government of India) — calendar year January–December 2025, Uttar Pradesh sample: 176,060 individuals in 36,774 households. Raw microdata is **not redistributed** in this repository per MoSPI usage terms — it can be obtained from [microdata.gov.in](https://microdata.gov.in).
+PLFS 2025 microdata (Ministry of Statistics and Programme Implementation, Government of India) — calendar year January–December 2025, Uttar Pradesh sample: 176,060 individuals in 36,774 households. Raw microdata is **not redistributed** in this repository per MoSPI usage terms, it can be obtained from [microdata.gov.in](https://microdata.gov.in).
 
 ## Reproducibility
 
