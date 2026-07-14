@@ -13,7 +13,7 @@ Uttar Pradesh's workforce of 68 million is almost entirely informal: 96% of work
 
 ## Data
 
-PLFS 2025 microdata (Ministry of Statistics and Programme Implementation, Government of India) — calendar year January–December 2025, Uttar Pradesh sample: 176,060 individuals in 36,774 households. Raw microdata is **not redistributed** in this repository per MoSPI usage terms, it can be obtained from [microdata.gov.in](https://microdata.gov.in).
+PLFS 2025 microdata (Ministry of Statistics and Programme Implementation, Government of India), calendar year January–December 2025, Uttar Pradesh sample: 176,060 individuals in 36,774 households. Raw microdata is **not redistributed** in this repository per MoSPI usage terms, it can be obtained from [microdata.gov.in](https://microdata.gov.in).
 
 ## Reproducibility
 
