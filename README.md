@@ -3,7 +3,7 @@
 
 Uttar Pradesh's workforce of 68 million is almost entirely informal — 96% of workers lack a written contract, employer-provided social security, or a registered employer. This project uses Periodic Labour Force Survey (PLFS) 2025 microdata to ask who gets left out of protected work, whether education closes the gap, and how the penalty shows up in earnings. Formal work turns out to be distributed along social group lines, and the inequality *widens* with education. Earnings gaps of 13–18% persist between social groups even among workers with identical education, age, sex, and location.
 
-[Informality by education and social group](fig1_gradient.png)
+![Informality by education and social group](fig1_gradient.png)
 
 ## Key findings
 
