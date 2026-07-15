@@ -27,6 +27,6 @@ Complete output is in `all_tables.txt`. As a validation check, the pipeline repr
 
 ## Author
 
-**Dopal Gupta** : researcher working on poverty, social protection, and welfare delivery in India. This project grew out of household survey fieldwork across low-income constituencies of Bihar, Delhi, and Madhya Pradesh, where the gap between entitlement on paper and protection in practice kept repeating itself. Incoming MSc in Development Studies (Applied Development Economics), London School of Economics, September 2026.
+**Dopal Gupta** : researcher working on poverty, social protection, and welfare delivery in India. This project grew out of working with the household survey data from low-income constituencies of Bihar(Mahnar), East Delhi, and Madhya Pradesh, where the gap between entitlement on paper and protection in practice kept repeating itself. Incoming MSc in Development Studies (Applied Development Economics), London School of Economics, September 2026.
 
-Contact: dopalgupta@gmail.com · [dopalgupta]
+Contact: dopalgupta@gmail.com · dopalgupta
